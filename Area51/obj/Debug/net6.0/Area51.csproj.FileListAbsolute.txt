@@ -1,0 +1,15 @@
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\bin\Debug\net6.0\Area51.exe
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\bin\Debug\net6.0\Area51.deps.json
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\bin\Debug\net6.0\Area51.runtimeconfig.json
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\bin\Debug\net6.0\Area51.dll
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\bin\Debug\net6.0\Area51.pdb
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\obj\Debug\net6.0\Area51.csproj.AssemblyReference.cache
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\obj\Debug\net6.0\Area51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\obj\Debug\net6.0\Area51.AssemblyInfoInputs.cache
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\obj\Debug\net6.0\Area51.AssemblyInfo.cs
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\obj\Debug\net6.0\Area51.csproj.CoreCompileInputs.cache
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\obj\Debug\net6.0\Area51.dll
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\obj\Debug\net6.0\refint\Area51.dll
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\obj\Debug\net6.0\Area51.pdb
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\obj\Debug\net6.0\Area51.genruntimeconfig.cache
+C:\Users\a.damov\Desktop\Uni\Area51\Area51\obj\Debug\net6.0\ref\Area51.dll
